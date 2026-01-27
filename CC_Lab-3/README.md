@@ -1,1 +1,1 @@
-Completed CLoud Computing Lab-3
+Completed Cloud Computing Lab-3
